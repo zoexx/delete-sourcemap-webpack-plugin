@@ -1,0 +1,24 @@
+{
+  "name": "delete-sourcemap-webpack-plugin",
+  "version": "1.0.1",
+  "description": "delete source map url and files after uploaded to anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoexx/delete-sourcemap-webpack-plugin.git"
+  },
+  "keywords": [
+    "source",
+    "map",
+    "webpack"
+  ],
+  "author": "zoeying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoexx/delete-sourcemap-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/zoexx/delete-sourcemap-webpack-plugin#readme"
+}
